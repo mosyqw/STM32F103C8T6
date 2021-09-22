@@ -1,0 +1,8 @@
+*
+!*.PrjPcb
+!*.SchDoc
+!*.PcbDoc
+!*.PcbLib
+!*.SchLib
+!.gitignore
+!README.md
